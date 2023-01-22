@@ -27,6 +27,9 @@ const Details  = () => {
                         <p className={styles.info}>available programs</p>
                     </div>
                     <div className={styles.mission}>
+                        <link rel="preconnect" href="https://fonts.googleapis.com">
+                            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                                  <link href="https://fonts.googleapis.com/css2?family=Kenia&family=Roboto+Condensed&family=Tapestry&display=swap" rel="stylesheet">
                         <h1 className={styles.mission_header}>Mission</h1>
                         <p className={styles.mission_description}>We are a leader in our community, preparing future leaders for careers within health, education and scientific fields that will serve the community in which we practice. Our educators are focused on skill readiness so all students regardless of background will be able to become successful, competent and confident practitioners.</p>
                     </div>
