@@ -5,6 +5,9 @@ import Title from "../components/title";
 import Details from "../components/details";
 import Footer from "../components/footer";
 import Link from 'next/link';
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kenia&family=Roboto+Condensed&family=Tapestry&display=swap" rel="stylesheet">
 
 const inter = Inter({ subsets: ['latin'] })
 
